@@ -1,2 +1,2 @@
-# devaminb.github.io
-My personal CC0 blog.
+# devaminb@github
+This is my personal CC0 blog where I will share some thoughts and some tips.
